@@ -15,3 +15,10 @@ Information about the dataframe and json file:
 1. The dataframe was created using web scraping and extracting: article_link,article_title,published_date and article.
 2. The dataframe was then sorted in descending order using the published_date to obtain the 10 latest articles.
 3. The new dataframe comprising 10 articles is used to generate a json file comprising the article_title and the article.
+
+Plot:
+In the plot:
+1 stands for- Positive sentiment
+0 stands for- Neutral sentiment
+-1 stands for Negative sentiment
+
