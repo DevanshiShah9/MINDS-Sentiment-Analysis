@@ -1,0 +1,8 @@
+numpy
+pandas
+bs4
+python-dateutil 
+requests
+flair
+plotly
+tqdm
