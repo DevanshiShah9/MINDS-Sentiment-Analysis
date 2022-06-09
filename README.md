@@ -10,6 +10,7 @@ Instructions to run the code:
    pip install -r requirements.txt
 2. run the main_file.py using:
    python main_file.py
+3. The main_file.ipynd file can also be used for complete execution 
 
 Information about the dataframe and json file:
 1. The dataframe was created using web scraping and extracting: article_link,article_title,published_date and article.
